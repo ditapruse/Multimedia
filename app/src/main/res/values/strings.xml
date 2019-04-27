@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multiedia</string>
+
+    <string name="imgLast">There is no picture</string>
+    <string name="btnTakePic">Take Picture</string>
+    <string name="error">Some error has occurred</string>
+    <string name="noCamera">Camera cannot be opened</string>
+    <string name="noRecord">Audio cannot be recorded</string>
+    <string name="recording">Recording</string>
+
+    <string name="btnRecord">Record</string>
+    <string name="btnStopRec">Stop Record</string>
+
+</resources>
